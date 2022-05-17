@@ -1,4 +1,4 @@
-package bg.tu_varna.sit;
+package bg.tu_varna.sit.files;
 
 import bg.tu_varna.sit.exceptions.FileNotOpenedException;
 
