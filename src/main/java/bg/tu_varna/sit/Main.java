@@ -12,7 +12,7 @@ public class Main {
         FileManager manager = new FileManager();
         System.out.println(
                 "Make your choice: \n" +
-                "1. Open <file> -> opens <file>\n" +
+                "1. Open <file>\n" +
                 "2. Close\n" +
                 "3. Save\n" +
                 "4. Save as\n" +
